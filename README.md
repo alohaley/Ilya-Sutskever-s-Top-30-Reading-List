@@ -1,4 +1,4 @@
-# OpenAI 创始人Ilya Sutskever推荐的30篇必读文献
+# OpenAI创始人Ilya Sutskever推荐的30篇必读论文（中英对照翻译版）
 1. The First Law of Complexodynamics
 2. The Unreasonable Effectiveness of Recurrent Neural Networks
 3. Understanding LSTM Networks
