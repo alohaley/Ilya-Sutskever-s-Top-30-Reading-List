@@ -29,3 +29,6 @@
 ## Recurrent Neural Network Regularization<br>
 **阅读：**[中英对照翻译版](https://volctracer.com/w/QqtAz0OX)<br>
 
+
+**总结：** 
+
