@@ -1,5 +1,5 @@
 # Ilya Sutskever推荐的30篇必读论文
-慢速整理中英文对照版的论文方便大家阅读
+慢速整理中英文对照翻译好的论文方便大家阅读
 1. The First Law of Complexodynamics
     [中英对照翻译版](https://volctracer.com/w/dreqeBgN)
 3. The Unreasonable Effectiveness of Recurrent Neural Networks
