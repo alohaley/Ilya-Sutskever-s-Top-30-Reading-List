@@ -1,4 +1,4 @@
-# Ilya Sutskever推荐的30篇必读论文
+# Ilya Sutskever推荐的30篇Deep learning必读论文
 慢速整理中英文对照翻译好的论文方便大家阅读
 
 
