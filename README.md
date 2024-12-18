@@ -1,4 +1,4 @@
-# Ilya Sutskever推荐的30篇Deep learning必读论文
+# Ilya Sutskever的30篇Deep learning必读论文
 > Ilya Sutskever给了John Carmack一份包含大约30篇研究论文的阅读清单，并说：“如果你真正掌握了这些内容，你就会了解当今AI相关90%的重要知识。”
 
 慢速整理中英文对照翻译好的论文方便大家阅读
