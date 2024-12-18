@@ -26,3 +26,6 @@
 介绍了长短期记忆网络（LSTM）的结构和功能。LSTM是一种改进的循环神经网络（RNN），通过引入细胞状态和输入、遗忘、输出三个门机制，有效解决了传统RNN在处理长期依赖性时的不足。文章详细阐述了LSTM的工作原理，并讨论了其变体如门控循环单元（GRU）。LSTM在语言建模、翻译和语音识别等领域取得了显著成果，并推动了神经网络研究的进一步发展。<br>
 
 
+## Recurrent Neural Network Regularization<br>
+**阅读：**[中英对照翻译版](https://volctracer.com/w/QqtAz0OX)<br>
+
